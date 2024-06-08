@@ -1,0 +1,67 @@
+html,
+body {
+  background-color: skyblue;
+  padding: 0;
+  margin: 0;
+}
+//////HHHHH///
+
+h2 {
+  color: gray;
+}
+///////background//////
+#background {
+  background-color: skyblue;
+}
+
+section {
+  background-color: ;
+  padding: 5px;
+  border: 5px;
+}
+img {
+  width: 500px;
+}
+section {
+  background-color: yellow;
+}
+footer {
+  color: brown;
+  text-align: center;
+  margin-top: 100px;
+}
+
+#background {
+  background-color: white;
+  width: 600px;
+  padding-top: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  border-color: black;
+  border-style: solid;
+}
+////pppppp/////
+///////does not work ,I do not know why////////
+.para {
+  padding: 500px;
+}
+
+#why {
+  background-color: white;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: black;
+  border-style: solid;
+}
+
+#heading {
+  padding-left: 400px;
+  align-items: center;
+  color: brown;
+  font-size: 40px;
+}
